@@ -4,8 +4,12 @@ We have completed our first commit... It's amazing..
 
 We have learn a lot about git..
 
-Now we can start using git and git hub...
+Now we can start using git and git hub git bit bucket.....
 
+<<<<<<< HEAD
 Git hub is awesome learning version control system
 
 Now we are learning git branch.....
+=======
+Git lab is awesome learning version control system
+>>>>>>> branchA
